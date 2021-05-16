@@ -7,7 +7,7 @@ var original = Runner.prototype.gameOver
 ```javascript
 Runner.prototype.gameOver = function(){}
 ```
-```javacript
+```javascript
 Runner.instance_.setSpeed(1000)
 ```
 #### Type this to stop it
