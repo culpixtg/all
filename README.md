@@ -6,8 +6,8 @@ var original = Runner.prototype.gameOver
 
 ```javascript
 Runner.prototype.gameOver = function(){}
-#### Type this to stop it
 ```
+#### Type this to stop it
 ```javascript
 Runner.prototype.gameOver = original
 ```
