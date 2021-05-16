@@ -7,3 +7,6 @@ var original = Runner.prototype.gameOver
 ```javascript
 Runner.prototype.gameOver = function(){}
 ```
+```javascript
+Runner.prototype.gameOver = original
+```
