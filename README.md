@@ -44,7 +44,7 @@ It can be found here https://replit.com/@mikeylmao/24hr-token-adder
 # Other Hacks (Extra)
 Mostly websites..
 
-# Kahoot Hacks:
+## Kahoot Hacks:
 ```
 [Kaheet] https://pxtrez.com/
 [Flooder] https://kaspammer.glitch.me/
@@ -53,7 +53,7 @@ Mostly websites..
 [Kahoot Client V2] https://kahot.glitch.me/
 ```
 
-## Bookmarklets (Click on these before you enter a games ID)
+### Bookmarklets (Click on these before you enter a games ID)
 
 Kahoot Smasher/Flooder (Drag the link below to your bookmarks bar):
 ```
@@ -70,13 +70,13 @@ Kahoot Correct Answers (Drag the link below to your bookmarks bar):
 javascript:fetch("https://raw.githubusercontent.com/pxtrez/kaheet/main/dist/bundle.js" ).then((r) => r.text().then((t) => eval(t)));
 ```
 
-# Quizlet Hacks:
+## Quizlet Hacks:
 Works for micromatch and other gamemodes (Drag the link below to your bookmarks bar):
 ```
 javascript:(function()%7B(function() %7Blet x %3D document.createElement("script")%3Bx.src %3D "https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSnowLord7%2Fquizlet%40master%2Findex.js"%3Bx.onload %3D function () %7B x.remove()%3B %7D%3Bdocument.body.appendChild(x)%3B%7D)()%7D)()
 ```
 
-# Cookie Clicker Hacks:
+## Cookie Clicker Hacks:
 Shows a mod menu on your screen
 
 Mod Menu V1 (Drag the link below to your bookmarks bar):
@@ -90,7 +90,7 @@ javascript:Game.OpenSesame()
 ```
 Website to play Cookie Clicker if it's blocked: https://ozh.github.io/cookieclicker/
 
-# Nearpod Hacks:
+## Nearpod Hacks:
 Just finds codes
 
 Nearpod code finder
@@ -98,7 +98,7 @@ Nearpod code finder
 https://replit.com/@milestashaun/nearpod-code-finder
 ```
 
-# Walmart Version Of Google Classroom:
+## Walmart Version Of Google Classroom:
 Sign up and add people to it
 
 Code: rmxIWa
