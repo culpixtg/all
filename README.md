@@ -1,5 +1,11 @@
-# Enter this command by pressing `F12`
-#### Command you enter to the chrome console 
+# Chrome Dino Cheat
+js commands to make your dino much faster
+
+# How to start?
+1. Open `chrome://dino`
+2. Press `F12` to open console
+3. Insert theese commands
+
 ```javascript
 var original = Runner.prototype.gameOver
 ```
@@ -9,7 +15,9 @@ Runner.prototype.gameOver = function(){}
 ```javascript
 Runner.instance_.setSpeed(10000)
 ```
-#### Type this to stop it
+# How to stop it?
+Just insert this command
+
 ```javascript
 Runner.prototype.gameOver = original
 ```
