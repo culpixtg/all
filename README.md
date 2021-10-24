@@ -1,4 +1,4 @@
-# Chrome Dino Cheat
+# Chrome Dino Cheat penis
 js commands to make your dino much faster
 
 # How to start?
