@@ -1,7 +1,7 @@
 # Blooket Hacks and more!
 These are hacks for blooket. There are hacks such as give tokens for buying blooks (sadly only 500 per day), and cheats in-game like infinite gold in tower of doom or gold rush! I took cheats from another github repo, revised the code a bit. (There are other hacks if you scroll down)
 
-**scroll down for video tutorial on how to make bookmarklets**
+**Scroll down for video tutorial on how to make bookmarklets**
 
 ## Mod Menu:
 Mod Menu for blooket (Drag the link below to your bookmarks bar):
