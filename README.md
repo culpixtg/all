@@ -106,7 +106,7 @@ Code: rmxIWa
 https://our-gclassroom.netlify.app/
 ```
 
-## Google Snake
+## Google Snake Hacks:
 
 Wall Every Apple
 ```
